@@ -1,0 +1,19 @@
+package raf.dsw.classycraft.app.repository.implementation.elements.content;
+
+import lombok.Getter;
+import lombok.NoArgsConstructor;
+import lombok.Setter;
+
+
+
+@Getter
+@Setter
+@NoArgsConstructor
+public abstract class ClassContent  {
+    
+    private String name;
+
+    public ClassContent(String name) {
+        this.name = name;
+    }
+}

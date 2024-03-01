@@ -1,0 +1,73 @@
+[CANNOT_ADD_TO_DIAGRAM][05.12.2023. 17:52] Na diagram se ne moze dodavati
+[NO_NODE_SELECTED][09.12.2023. 00:31] Morate odabrati cvor za zeljenu akciju
+[NO_NODE_SELECTED][13.12.2023. 02:44] Morate odabrati cvor za zeljenu akciju
+[NO_NODE_SELECTED][13.12.2023. 03:29] Morate odabrati cvor za zeljenu akciju
+[NO_NODE_SELECTED][13.12.2023. 17:39] Morate odabrati cvor za zeljenu akciju
+[NAME_CANNOT_BE_EMPTY][13.12.2023. 19:30] Polje ne moze biti prazno
+[NAME_CANNOT_BE_EMPTY][13.12.2023. 19:30] Polje ne moze biti prazno
+[NAME_CANNOT_BE_EMPTY][13.12.2023. 19:30] Polje ne moze biti prazno
+[NAME_CANNOT_BE_EMPTY][13.12.2023. 19:41] Polje ne moze biti prazno
+[NAME_CANNOT_BE_EMPTY][13.12.2023. 19:42] Polje ne moze biti prazno
+[NAME_CANNOT_BE_EMPTY][13.12.2023. 19:42] Polje ne moze biti prazno
+[CANNOT_ADD_TO_DIAGRAM][13.12.2023. 19:52] Na diagram se ne moze dodavati
+[PROJECT_EXPLORER_CANNOT_BE_DELETED][13.12.2023. 20:40] Nije moguce izbrisati selektovan cvor
+[PROJECT_EXPLORER_CANNOT_BE_DELETED][13.12.2023. 20:40] Nije moguce izbrisati selektovan cvor
+[PROJECT_EXPLORER_CANNOT_BE_DELETED][13.12.2023. 20:41] Nije moguce izbrisati selektovan cvor
+[PROJECT_EXPLORER_CANNOT_BE_DELETED][13.12.2023. 20:41] Nije moguce izbrisati selektovan cvor
+[PROJECT_EXPLORER_CANNOT_BE_DELETED][13.12.2023. 20:41] Nije moguce izbrisati selektovan cvor
+[PROJECT_EXPLORER_CANNOT_BE_DELETED][13.12.2023. 20:50] Nije moguce izbrisati selektovan cvor
+[NO_NODE_SELECTED][13.12.2023. 22:12] Morate odabrati cvor za zeljenu akciju
+[NO_NODE_SELECTED][13.12.2023. 22:19] Morate odabrati cvor za zeljenu akciju
+[NO_NODE_SELECTED][13.12.2023. 22:59] Morate odabrati cvor za zeljenu akciju
+[NO_NODE_SELECTED][13.12.2023. 23:13] Morate odabrati cvor za zeljenu akciju
+[NO_NODE_SELECTED][13.12.2023. 23:13] Morate odabrati cvor za zeljenu akciju
+[NAME_CANNOT_BE_EMPTY][14.12.2023. 01:39] Polje ne moze biti prazno
+[CANNOT_ADD_TO_DIAGRAM][14.12.2023. 02:09] Na diagram se ne moze dodavati
+[NAME_CANNOT_BE_EMPTY][14.12.2023. 02:34] Polje ne moze biti prazno
+[NO_NODE_SELECTED][14.12.2023. 04:56] Morate odabrati cvor za zeljenu akciju
+[NO_NODE_SELECTED][14.12.2023. 05:01] Morate odabrati cvor za zeljenu akciju
+[NAME_CANNOT_BE_EMPTY][14.12.2023. 05:50] Polje ne moze biti prazno
+[NAME_CANNOT_BE_EMPTY][14.12.2023. 05:51] Polje ne moze biti prazno
+[NAME_CANNOT_BE_EMPTY][14.12.2023. 15:42] Polje ne moze biti prazno
+[NO_NODE_SELECTED][14.12.2023. 16:29] Morate odabrati cvor za zeljenu akciju
+[NAME_CANNOT_BE_EMPTY][14.12.2023. 16:31] Polje ne moze biti prazno
+[NAME_CANNOT_BE_EMPTY][14.12.2023. 16:50] Polje ne moze biti prazno
+[NO_NODE_SELECTED][14.12.2023. 19:03] Morate odabrati cvor za zeljenu akciju
+[NAME_CANNOT_BE_EMPTY][14.12.2023. 19:25] Polje ne moze biti prazno
+[NO_NODE_SELECTED][14.12.2023. 21:15] Morate odabrati cvor za zeljenu akciju
+[NO_NODE_SELECTED][14.12.2023. 21:17] Morate odabrati cvor za zeljenu akciju
+[NO_NODE_SELECTED][14.12.2023. 21:40] Morate odabrati cvor za zeljenu akciju
+[NO_NODE_SELECTED][14.12.2023. 23:18] Morate odabrati cvor za zeljenu akciju
+[NO_NODE_SELECTED][14.12.2023. 23:25] Morate odabrati cvor za zeljenu akciju
+[NO_NODE_SELECTED][15.12.2023. 00:05] Morate odabrati cvor za zeljenu akciju
+[NAME_CANNOT_BE_EMPTY][15.12.2023. 00:13] Polje ne moze biti prazno
+[NAME_CANNOT_BE_EMPTY][15.12.2023. 00:36] Polje ne moze biti prazno
+[NAME_CANNOT_BE_EMPTY][15.12.2023. 00:36] Polje ne moze biti prazno
+[NAME_CANNOT_BE_EMPTY][15.12.2023. 01:05] Polje ne moze biti prazno
+[NO_NODE_SELECTED][15.12.2023. 01:06] Morate odabrati cvor za zeljenu akciju
+[NAME_CANNOT_BE_EMPTY][15.12.2023. 01:28] Polje ne moze biti prazno
+[NAME_CANNOT_BE_EMPTY][15.12.2023. 01:38] Polje ne moze biti prazno
+[NAME_CANNOT_BE_EMPTY][15.12.2023. 01:49] Polje ne moze biti prazno
+[NAME_CANNOT_BE_EMPTY][15.12.2023. 02:10] Polje ne moze biti prazno
+[NAME_CANNOT_BE_EMPTY][15.12.2023. 02:21] Polje ne moze biti prazno
+[NAME_CANNOT_BE_EMPTY][15.12.2023. 02:22] Polje ne moze biti prazno
+[NO_NODE_SELECTED][15.12.2023. 02:24] Morate odabrati cvor za zeljenu akciju
+[NO_NODE_SELECTED][15.12.2023. 02:24] Morate odabrati cvor za zeljenu akciju
+[NAME_CANNOT_BE_EMPTY][15.12.2023. 02:45] Polje ne moze biti prazno
+[NAME_CANNOT_BE_EMPTY][15.12.2023. 02:48] Polje ne moze biti prazno
+[NAME_CANNOT_BE_EMPTY][15.12.2023. 02:50] Polje ne moze biti prazno
+[NAME_CANNOT_BE_EMPTY][15.12.2023. 03:04] Polje ne moze biti prazno
+[NAME_CANNOT_BE_EMPTY][15.12.2023. 03:10] Polje ne moze biti prazno
+[NO_NODE_SELECTED][15.12.2023. 03:12] Morate odabrati cvor za zeljenu akciju
+[NAME_CANNOT_BE_EMPTY][15.12.2023. 03:41] Polje ne moze biti prazno
+[NAME_CANNOT_BE_EMPTY][15.12.2023. 13:59] Polje ne moze biti prazno
+[NAME_CANNOT_BE_EMPTY][15.12.2023. 14:06] Polje ne moze biti prazno
+[NO_NODE_SELECTED][15.12.2023. 14:08] Morate odabrati cvor za zeljenu akciju
+[NO_NODE_SELECTED][15.12.2023. 14:44] Morate odabrati cvor za zeljenu akciju
+[NO_NODE_SELECTED][29.12.2023. 18:56] Morate odabrati cvor za zeljenu akciju
+[NO_NODE_SELECTED][29.12.2023. 19:58] Morate odabrati cvor za zeljenu akciju
+[NAME_CANNOT_BE_EMPTY][29.12.2023. 20:34] Polje ne moze biti prazno
+[MUST_SELECT_PROJECT][02.01.2024. 22:16] Morate odabrati projekat
+[NO_NODE_SELECTED][02.01.2024. 22:22] Morate odabrati cvor za zeljenu akciju
+[PROJECT_EXPLORER_CANNOT_BE_DELETED][08.01.2024. 19:03] Nije moguce izbrisati selektovan cvor
+[NAME_CANNOT_BE_EMPTY][08.01.2024. 19:13] Polje ne moze biti prazno
