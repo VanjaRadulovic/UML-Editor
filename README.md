@@ -4,3 +4,7 @@
 Vanja Radulovic 112/20 RN
 
 Branislav Dragicevic 57/19 RN
+
+![image](https://github.com/VanjaRadulovic/UML-Editor/assets/72040772/5a156a6b-b935-49c8-b275-fad0e2521890)
+
+UML Editor koj implementira vise dizajn paterna, Composite, Singleton, Factory, Obersver, State i Komand patern
